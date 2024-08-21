@@ -1,0 +1,12 @@
+flask
+python-dotenv
+openai
+aiohttp
+requests
+gunicorn
+langchain_openai
+langchain_pinecone
+langchain
+langsmith
+langchain-community
+redis
